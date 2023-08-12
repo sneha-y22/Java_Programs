@@ -1,4 +1,4 @@
-public class GFG {
+public class main {
 
 	public static void printSpiral(int size)
 	{
