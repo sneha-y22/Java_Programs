@@ -1,6 +1,5 @@
 package Majorsjava;
 
-//to print the sum of three numbers in java
 
 public class Sum {
     public static void main(String[] args) {
