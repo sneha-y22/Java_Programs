@@ -18,7 +18,7 @@ public class starpascaltriangle {
 
 		int a, b;
 
-		GFG g = new GFG();
+		star g = new star();
 
 		for (a = 0; a <= k; a++) {
 
